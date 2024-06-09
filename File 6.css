@@ -1,0 +1,8 @@
+.sparkle .group {
+  width: 125.1px;
+  height: 120.6px;
+}
+.sparkle {
+  display: flex;
+  box-sizing: border-box;
+}
