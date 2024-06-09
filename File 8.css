@@ -1,0 +1,59 @@
+.toolbar .toolbar-1 {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: -0.5px;
+  line-height: 0.78;
+  color: #000000;
+}
+.toolbar .its-at-the-bottom-of-your-screen-with-stickies-stamps-and-anything-you-need {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18.4px;
+  color: #000000;
+}
+.toolbar .content {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.toolbar .screen-shot-20220919-at-4371 {
+  box-shadow: 0px 0px 0px 0.8px rgba(0, 0, 0, 0.2), 0px 0px 1.5px 0px rgba(0, 0, 0, 0.08), 0px 1.5px 4.6px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 3.1px;
+  border: 6.1px solid #FFFFFF;
+  background: url('../assets/images/screen_shot_20220919_at_4372.png');
+  margin-bottom: 23.7px;
+  width: 850.3px;
+  height: 74.9px;
+}
+.toolbar .screen-shot-20220919-at-4372 {
+  box-shadow: 0px 0px 0px 0.8px rgba(0, 0, 0, 0.2), 0px 0px 1.5px 0px rgba(0, 0, 0, 0.08), 0px 1.5px 4.6px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 3.1px;
+  border: 6.1px solid #FFFFFF;
+  background: url('../assets/images/screen_shot_20220919_at_4372.png');
+  width: 850.3px;
+  height: 74.9px;
+}
+.toolbar .frame-14253 {
+  position: absolute;
+  right: -572.4px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 850.3px;
+  height: 173.6px;
+  box-sizing: border-box;
+}
+.toolbar {
+  box-shadow: 0px 0.5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 14px;
+  background: #FFFFFF;
+  padding: 28.1px 28.1px 38.5px 28.1px;
+  box-sizing: border-box;
+}
