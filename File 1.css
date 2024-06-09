@@ -1,0 +1,105 @@
+.add-asticky .stickies {
+  margin-bottom: 18.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 36.7px;
+  letter-spacing: -0.6px;
+  line-height: 1;
+  color: #000000;
+}
+.add-asticky .press-sto-quickly-add-asticky-to-the-canvas {
+  margin-bottom: 37.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 18.4px;
+  line-height: 1.333;
+  color: #000000;
+}
+.add-asticky .key-text {
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 21.4px;
+  letter-spacing: -0.1px;
+  line-height: 1.304;
+  color: #000000;
+}
+.add-asticky .key {
+  border-radius: 7.6px;
+  border: 2.3px solid #000000;
+  display: flex;
+  padding: 9.1px 12.9px 6.9px 12.9px;
+  box-sizing: border-box;
+}
+.add-asticky .shortcuts {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.add-asticky .content {
+  margin: 26.1px 50.3px 5px 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 286.3px;
+  box-sizing: border-box;
+}
+.add-asticky .rectangle-524 {
+  background: #000000;
+  position: absolute;
+  left: 38.6px;
+  top: 22.3px;
+  width: 2.3px;
+  height: 12.9px;
+}
+.add-asticky .add-text {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: -0.1px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.3);
+}
+.add-asticky .main {
+  box-shadow: 0px 1.6px 3.2px 0px rgba(0, 0, 0, 0.25);
+  background: #ffea79;
+  position: relative;
+  display: flex;
+  padding: 29.8px 92.6px 0 0;
+  width: 100%;
+  height: 220.8px;
+  box-sizing: border-box;
+}
+.add-asticky .frame-2064 {
+  width: 100%;
+  height: 220.8px;
+  box-sizing: border-box;
+}
+.add-asticky .sticky {
+  transform: rotate(8.307deg);
+  width: 100%;
+  height: 220.8px;
+  box-sizing: border-box;
+}
+.add-asticky .image {
+  width: 220.8px;
+  height: 220.8px;
+  box-sizing: border-box;
+}
+.add-asticky {
+  box-shadow: 0px 0.6px 19.7px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 18.4px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10.6px 0 31.7px 36.7px;
+  box-sizing: border-box;
+}
